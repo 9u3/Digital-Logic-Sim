@@ -29,7 +29,7 @@ namespace DLS.Description
 		Split_8To4Bit,
 		Split_8To1Bit,
 		Split_16To1Bit,
-		Split_16To8Bit
+		Split_16To8Bit,
 
 		// ---- In / Out Pins ----
 		In_1Bit,
@@ -39,7 +39,7 @@ namespace DLS.Description
 		Out_1Bit,
 		Out_4Bit,
 		Out_8Bit,
-		Out_16Bit
+		Out_16Bit,
 
 		Key,
 
@@ -51,7 +51,7 @@ namespace DLS.Description
 		Bus_8Bit,
 		BusTerminus_8Bit,
 		Bus_16Bit,
-		BusTerminus_16Bit
+		BusTerminus_16Bit,
 		
 		// ---- Audio ----
 		Buzzer
